@@ -15,7 +15,7 @@
 		<?php
 		if(isset($_POST['submit']))
 		{
-
+			//change 1
 			$data = array();
 			foreach ($_POST as $key => $value1) {
 			$data[] = $value1;
