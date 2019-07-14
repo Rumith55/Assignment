@@ -58,7 +58,7 @@
 		
 				}
 				echo"</table>";
-				
+				//chage 2
 				
 				echo "<br><input type = 'submit' name = 'submit' value = 'Submit' ></form>";
 				//change 1
